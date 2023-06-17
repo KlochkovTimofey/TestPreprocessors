@@ -1,2 +1,2 @@
 # TestPreprocessors
-Advanced layout design written in HTML, Css and JavaScript
+Modern layout design written in HTML, Css and JavaScript
